@@ -27,10 +27,3 @@ The package contains the dependency injection for the application.
 ## UI
 
 Activity and view models specific to the Weather Application flow
-
-
-## This is how the applications looks like
-
-![image](https://github.com/rohithagiru/Weather_Application/assets/31708244/524eb947-fef9-4db3-8ecb-e023dae1719d)
-![image](https://github.com/rohithagiru/Weather_Application/assets/31708244/449ef0ea-96f5-45d3-b4d0-ab5327be583d)
-![image](https://github.com/rohithagiru/Weather_Application/assets/31708244/ff311612-8eda-4c68-b647-a50877c4b2db)
